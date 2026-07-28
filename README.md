@@ -4,7 +4,7 @@ An AI research assistant for Pakistani case law. Ask a legal question by typing 
 
 Built as a working prototype to explore Retrieval-Augmented Generation (RAG) on real legal documents.
 
-![App with voice input](screenshots/01-app-search.jpg)
+![App with voice input](pak-caselaw-assistant/screenshots/01-app-search.jpg)
 
 <!-- DEMO VIDEO: edit this README on github.com and drag your .mp4 here, or add a demo.gif -->
 
@@ -24,7 +24,7 @@ So this tool does two things a plain search box does not: it summarises each jud
 - Clean, black-and-white professional interface, plus a command-line version
 - Honest "unclear" labelling when a short excerpt does not clearly favour a side
 
-![Result cards](screenshots/02-app-results.jpg)
+![Result cards](pak-caselaw-assistant/screenshots/02-app-results.jpg)
 
 ## How it works
 
@@ -74,7 +74,7 @@ python analyze.py "benefit of doubt acquittal in a murder case" defence
 
 The same pipeline runs in the terminal, useful for quick tests:
 
-![CLI output](screenshots/03-cli-output.jpg)
+![CLI output](pak-caselaw-assistant/screenshots/03-cli-output.jpg)
 
 ## Honest limitations
 
