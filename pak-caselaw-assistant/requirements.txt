@@ -1,0 +1,7 @@
+datasets
+sentence-transformers
+chromadb
+streamlit
+streamlit-mic-recorder
+google-genai
+python-dotenv
